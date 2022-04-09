@@ -1,0 +1,4 @@
+This is owesome file added directly from GitHub.com
+And now im about commit directly to GitHub.com remote repository
+this is not something we would do normaly
+in plain english remote has
